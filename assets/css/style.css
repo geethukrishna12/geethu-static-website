@@ -387,11 +387,13 @@ section {
 --------------------------------------------------------------*/
 .facts {
   padding-bottom: 30px;
+
 }
 
 .facts .count-box {
   padding: 30px;
   width: 100%;
+  margin-left: 20%;
 }
 
 .facts .count-box i {
